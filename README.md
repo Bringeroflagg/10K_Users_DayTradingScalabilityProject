@@ -3,8 +3,7 @@
 </p>
 
 10,000 Users MicroServices Project Architecture:
-![image](https://github.com/user-attachments/assets/f5ccaf09-172b-45c9-acc6-717330040f63)
-
+![image](https://github.com/user-attachments/assets/189847b2-d76d-4f1d-8f15-26cebe53fbe9)
 
 **jmeter script steps**
 
