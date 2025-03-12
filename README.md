@@ -2,7 +2,7 @@
   Author: Ayush Mattoo
 </p>
 
-Project Architecture:
+10,000 Users MicroServices Project Architecture:
 ![image](https://github.com/user-attachments/assets/f5ccaf09-172b-45c9-acc6-717330040f63)
 
 
