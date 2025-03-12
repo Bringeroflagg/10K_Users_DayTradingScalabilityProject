@@ -1,7 +1,6 @@
-Group 1
-Team Members: Sunpreet Singh, Ayush Mattoo, Tanjot Singh, Ngan Nguyen, Omar Madhani
+Ayush Mattoo
 
-**Please run these steps before running a jmeter script**
+**jmeter script steps**
 
 (Within main directory with all the service folders)
 (Please make sure you're in the main branch)
