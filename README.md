@@ -1,7 +1,10 @@
-Author: Ayush Mattoo
+<p align="center">
+  Author: Ayush Mattoo
+</p>
 
 Project Architecture:
-![image](https://github.com/user-attachments/assets/5807115e-5271-4146-bd46-faff929b4146)
+![image](https://github.com/user-attachments/assets/f5ccaf09-172b-45c9-acc6-717330040f63)
+
 
 **jmeter script steps**
 
