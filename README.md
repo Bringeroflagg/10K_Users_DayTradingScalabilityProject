@@ -26,7 +26,8 @@ $npm install
 $npm run serve
 
 **Jmeter Functionality Tests Screenshot:**
-![image](https://github.com/user-attachments/assets/b6254300-bfe0-41dc-bfc4-2fc263f06633)
+![image](https://github.com/user-attachments/assets/c91e23f2-0b7d-4c42-93c5-c54c5bf3da11)
+
 
 **Running Docker Containers:**
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/b7982143-e7de-42b8-99a9-b535a6d2878a" />
